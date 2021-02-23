@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18924434342",
+    "firebase_url": "https://julo-22445.firebaseio.com",
+    "project_id": "julo-22445",
+    "storage_bucket": "julo-22445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18924434342:android:6c575a613c585d184f5567",
+        "android_client_info": {
+          "package_name": "com.shefrengo.trial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18924434342-hfnnoe118frqe3gk471iqn8cuagh3p2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwlPSDOuJ2zhj4ZW3SMlR7drYJIK3L9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18924434342-hfnnoe118frqe3gk471iqn8cuagh3p2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
